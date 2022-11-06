@@ -162,7 +162,7 @@ _deps = [
     "tf2onnx",
     "timeout-decorator",
     "timm",
-    "tokenizers>=0.11.1,!=0.11.3,<0.14",
+    "tokenizers == 0.6.0",
     "torch>=1.7,!=1.12.0,<1.13.0",
     "torchaudio",
     "pyctcdecode>=0.4.0",
